@@ -1,1 +1,5 @@
 database.txt
+
+files/*
+
+!files/1.html
